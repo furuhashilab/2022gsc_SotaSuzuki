@@ -17,19 +17,19 @@
 
 © Furuhashi Laboratory/Ibuki Shibayama, CC BY 4.0
 
-### Abstract
+## Abstract
 
-### Introduction
+## Introduction
 
-### Method
+## Method
 
-### Result
+## Result
 
-### Discussion
+## Discussion
 
-### Conclution
+## Conclution
 
-### 先行研究
+## 先行研究
 https://furuhashilab.github.io/www4yunawatanabe/
 
 https://github.com/furuhashilab/2020gsc_shunsuke-yoda
