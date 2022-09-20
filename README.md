@@ -17,6 +17,18 @@
 
 © Furuhashi Laboratory/Ibuki Shibayama, CC BY 4.0
 
+### Abstract
+
+### Introduction
+
+### Method
+
+### Result
+
+### Discussion
+
+### Conclution
+
 ### 先行研究
 https://furuhashilab.github.io/www4yunawatanabe/
 
