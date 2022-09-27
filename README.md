@@ -15,7 +15,7 @@
 
 指導教員 古橋大地 教授
 
-© Furuhashi Laboratory/, CC BY 4.0
+© Furuhashi Laboratory/Sota Suzuki, CC BY 4.0
 
 ## Abstract
 
