@@ -55,7 +55,7 @@
 
 ・source=survey（筆者が現地調査を行うことができた店舗のみ）
 
-https://user-images.githubusercontent.com/72395572/152496616-469b0406-8f4a-44c3-afe2-9afc9c07443a.png
+![editor](https://user-images.githubusercontent.com/72395572/152496616-469b0406-8f4a-44c3-afe2-9afc9c07443a.png)
 
 ## Result
 
