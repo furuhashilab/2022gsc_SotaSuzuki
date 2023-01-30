@@ -70,9 +70,22 @@ https://github.com/furuhashilab/2020gsc_shunsuke-yoda
 
 https://github.com/furuhashilab/2021gsc_SotaSuzuki
 
-## Medium
+## レポート
 
-## グラレコ
+- 発表スライド
+
+
+
+- Medium
+
+
+- グラレコ
+
+
+## 謝辞
+
+本研究を進めるにあたり、青山学院大学地球社会共生学部教授の古橋大地氏をはじめ、先行研究を行った渡邊結南氏に助言を賜ったほか、依田峻輔氏、現地調査に協力していただいた柴山息吹氏にこの場をお借りして深く感謝申し上げます。
+
 
 
 
