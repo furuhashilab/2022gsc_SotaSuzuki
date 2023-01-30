@@ -29,7 +29,33 @@
 
 現在営業している全国のラーメン二郎店舗は４２店舗。また、神奈川県内の二郎系ラーメン店舗は７１店舗確認できている。（2023年1月時点）
 情報源は昨年度に引き続き、現地調査を行うことができた店舗にのみsource=surveyを記入した。ほかは更新が行われている公式Twitterなどを参照したほか、DMなどで連絡し、実際に情報の聞き込みを行った。
-また、本年は対象店舗の数が昨年度よりも多いことから、Facebookグループの[ラーメン二郎を愛する会](https://www.facebook.com/groups/389660794496077)
+また、本年は対象店舗の数が昨年度よりも多いことから、Facebookグループの[ラーメン二郎を愛する会](https://www.facebook.com/groups/389660794496077)において対象店舗の投稿がないか逐一確認を行った。そしてこれらの情報をもとに以下のタギングルールに則り書き込みを行った。
+
+・店舗データが未入力の店舗を入力
+
+・全店舗の住所を入力
+
+・全店舗のOpening_hoursを入力
+
+・全店舗のopening_hours:covid19を入力
+
+・amenity=fastfoodに統一
+
+・cuisine=ramen;jiroに統一
+
+・delivery=yes/no
+
+・takeout=yes/no
+
+・drive_through=no
+
+・outdoor_seating=no
+
+・branch=支店の場合入力
+
+・source=survey（筆者が現地調査を行うことができた店舗のみ）
+
+https://user-images.githubusercontent.com/72395572/152496616-469b0406-8f4a-44c3-afe2-9afc9c07443a.png
 
 ## Result
 
