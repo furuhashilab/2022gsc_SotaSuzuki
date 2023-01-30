@@ -74,12 +74,14 @@ https://github.com/furuhashilab/2021gsc_SotaSuzuki
 
 - 発表スライド
 
-
+https://docs.google.com/presentation/d/1xGH_nZsShMgH3FwRLgbSYamyQxdcpfSOcF4ObUmiAn4/edit?usp=sharing
 
 - Medium
 
 
+
 - グラレコ
+
 
 
 ## 謝辞
