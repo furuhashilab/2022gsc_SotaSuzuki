@@ -112,7 +112,7 @@ https://docs.google.com/presentation/d/1xGH_nZsShMgH3FwRLgbSYamyQxdcpfSOcF4ObUmi
 
 - Medium
 
-
+https://medium.com/furuhashilab/%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%E4%BA%8C%E9%83%8Emap-%E7%B6%9A-bb8f4f49ee78
 
 - グラレコ
 
