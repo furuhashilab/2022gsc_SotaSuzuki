@@ -104,7 +104,7 @@ https://github.com/furuhashilab/2021gsc_SotaSuzuki
 
 - 参考文献リスト
 
-
+https://docs.google.com/spreadsheets/d/1YLoil4KaxT3H1bJOaDKSOY47ViJXlEq88zsBXF_qUbs/edit?usp=sharing
 
 - 発表スライド
 
