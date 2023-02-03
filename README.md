@@ -120,7 +120,7 @@ https://medium.com/furuhashilab/%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%E4%BA%8C%E9
 
 - グラレコ
 
-
+![無題2_20230204070722](https://user-images.githubusercontent.com/72395572/216720315-52099da4-5bef-41ca-8c35-f17debb59490.png)
 
 ## 謝辞
 
